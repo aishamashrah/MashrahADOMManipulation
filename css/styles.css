@@ -1,0 +1,38 @@
+body{
+   
+    background-image: url("../assets/blue-windows-wallpaper-0731200e5d204ee09695a06cb45077d3.jpg");
+    /* background-color: bisque; */
+  }
+.changetitle {
+    font-size: 3rem;
+    font-family: fantasy;
+    color: rgb(227, 11, 11);
+    font-family:fantasy;
+    margin-left: 30rem;
+    
+}
+.lorem{
+    color: red;
+    
+}
+.btn1{
+    color: aliceblue;
+}
+.changelorem{
+    color: rgb(11, 236, 75);
+font-family: cursive;
+    
+}
+.btn7{
+color: azure;
+}
+.textcolor{
+color: brown;
+}
+
+
+
+
+
+    
+
